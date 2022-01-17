@@ -11,7 +11,7 @@
       <img height="80px" src="https://discord.c99.nl/widget/theme-4/449287407142043658.png">
     </a>
     <a href="https://open.spotify.com/user/21hvrddjilwmxvx5aueqyamyy?si=83365b15aa1b4905">
-      <img height="80px" src="https://possums.xyz/nowplaying/song">
+      <img height="80px" src="https://www.possums.xyz/nowplaying/song.png">
     </a>
   </p>
 </div>
